@@ -1,3 +1,5 @@
+# !!! Some parts of this repo used in AI on Power - L3 course !!!
+
 # watsonx-rag
 
 This notebook provides a sample pipeline combining RAG with LLMs.
